@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a99c0efd-3fdd-4dc5-b58e-848e2cc9f2dd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/app/bundle.js" afterPath="$PROJECT_DIR$/dist/app/bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/components/Home.js" afterPath="$PROJECT_DIR$/src/app/components/Home.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/index.js" afterPath="$PROJECT_DIR$/src/app/index.js" />
     </list>
@@ -52,8 +51,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="36" column="65" lean-forward="true" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+            <state relative-caret-position="219">
+              <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -64,8 +63,8 @@
       <file leaf-file-name="Home.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/components/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="160">
+              <caret line="45" column="110" lean-forward="false" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -332,12 +331,12 @@
       <workItem from="1527240775842" duration="8006000" />
       <workItem from="1527256612831" duration="6616000" />
       <workItem from="1527318769062" duration="12946000" />
-      <workItem from="1527355824888" duration="2195000" />
+      <workItem from="1527355824888" duration="3906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29763000" />
+    <option name="totallyTimeSpent" value="31474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,7 +351,7 @@
     <frame x="-8" y="-8" width="1296" height="706" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2710356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16423948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -591,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="36" column="65" lean-forward="true" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+        <state relative-caret-position="219">
+          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -601,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="160">
+          <caret line="45" column="110" lean-forward="false" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
