@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 export class Home extends React.Component {
     render(){
@@ -22,8 +23,9 @@ export class Home extends React.Component {
     }
 }
 
-// Home.PropTypes = {
-//     age: React.PropTypes.number,
-//     user: React.PropTypes.object,
-//     children: React.PropTypes.element.isRequired
-// };
+Home.PropTypes = {
+    name: PropTypes.string,
+    age: PropTypes.number,
+    user: PropTypes.object,
+    children: PropTypes.element.isRequired
+};
